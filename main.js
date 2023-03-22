@@ -1,7 +1,7 @@
 // sets kelvin to always be 293
 const kelvin = 0;
 
-// converts kelvin to celsius by subtracting 273
+// converts kelvin to celsius
 var celsius = kelvin - 273;
 
 // converts celsius to fahrenheit
